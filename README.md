@@ -5,7 +5,7 @@ This is the repo for Community to add token and update the Token logos according
 Please read the following tutorials.
 
 ### How to submit
-Pr
+
 1. Image of the 
 File Extension: png . Uppercase PNG is considered invalid
 File Name：logo.png
@@ -32,7 +32,7 @@ Note: Your request will not be
  "id": "0xECa41281c24451168a37211F0bc2b8645AF45092"
 }
 
-Fees for Submissions
+## Fees for Submissions
 Please donate 3000 PIN when submitting a token logo to verify the legitimacy of your token address. Attention, the donation would not be returned. Please consider carefully before donating. Follow the steps below to prepare the required materials and complete the donation. (Take PIN wallet as an example here.)
 1 Open TokenPocket App, click [Assets] on the bottom, choose PIN Token,and then click [Transfer] to proceed.
 2  Click [Transfer], enter receiving address and 3000 PIN  amount, Click [Confirm] after choosing fee, and then click [Transfer] after confirming the information.
