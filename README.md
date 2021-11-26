@@ -20,6 +20,7 @@ info.json
 The following information must be included in the info.json file. Please make sure that the details are correct and follow the format requirements. The contract address should follow the checksum address format. (Please refer to the sample below)
 Note: Your request will not be
 
+``` javascript
 {
 "name": "PinSwap Token",
 "website": "https://pinswap.github.io",
@@ -31,7 +32,7 @@ Note: Your request will not be
 "status": "active",
 "id": "0xECa41281c24451168a37211F0bc2b8645AF45092"
 }
-
+```
 ## Fees for Submissions
 Please donate 3000 PIN when submitting a token logo to verify the legitimacy of your token address. Attention, the donation would not be returned. Please consider carefully before donating. Follow the steps below to prepare the required materials and complete the donation. (Take PIN wallet as an example here.)
 1 Open TokenPocket App, click [Assets] on the bottom, choose PIN Token,and then click [Transfer] to proceed.
