@@ -21,15 +21,15 @@ The following information must be included in the info.json file. Please make su
 Note: Your request will not be
 
 {
- "name": "PinSwap Token",
- "website": "https://pinswap.github.io",
- "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
- "explorer": "https://pinswap/token/0xeca41281c24451168a37211f0bc2b8645af45092",
- "type": "BEP20",
- "symbol": "PIN",
- "decimals": 4,
- "status": "active",
- "id": "0xECa41281c24451168a37211F0bc2b8645AF45092"
+"name": "PinSwap Token",
+"website": "https://pinswap.github.io",
+"description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+"explorer": "https://pinswap/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+"type": "BEP20",
+"symbol": "PIN",
+"decimals": 4,
+"status": "active",
+"id": "0xECa41281c24451168a37211F0bc2b8645AF45092"
 }
 
 ## Fees for Submissions
